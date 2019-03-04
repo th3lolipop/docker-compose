@@ -3,11 +3,11 @@
 ## Usage 
 ### Docker and Docker Compose must be run on mechine 
 
->>>  #git clone https://github.com/phyominhtun1990/docker-compose.git
->>>  #cd elastic_kibana
+>>>  #git clone https://github.com/phyominhtun1990/docker-compose.git <br />
+>>>  #cd elastic_kibana <br />
 >>>  #docker-compose up -d 
 
->>>>>> elastcsearch : http://localhost:9200 
+>>>>>> elastcsearch : http://localhost:9200 <br />
 >>>>>> kibana : http://localhost:5601
 
 
